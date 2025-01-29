@@ -48,12 +48,5 @@ Ensure you have the following installed:
   - `w` - Save Screenshot
   - `+` / `-` - Increase/Decrease Line Thickness
 
-## 🤝 Contribution
-Feel free to contribute by submitting issues or pull requests. Let's make this even better together! 🎉
-
-## 📜 License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
 💡 **Happy Painting!** 🎨✨
 
